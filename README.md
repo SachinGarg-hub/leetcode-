@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SachinGarg-hub/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SachinGarg-hub/leetcode-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SachinGarg-hub/leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SachinGarg-hub/leetcode-/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/SachinGarg-hub/leetcode-/tree/master/0443-string-compression) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SachinGarg-hub/leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SachinGarg-hub/leetcode-/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/SachinGarg-hub/leetcode-/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SachinGarg-hub/leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SachinGarg-hub/leetcode-/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SachinGarg-hub/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SachinGarg-hub/leetcode-/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
